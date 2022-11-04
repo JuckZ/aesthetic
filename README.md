@@ -7,3 +7,4 @@ just browse project files and you'll know.
 ## TODO
 
 - [ ] demo.gif / demo.mp4
+- [ ] add wallpaper engine config
